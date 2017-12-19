@@ -1,6 +1,8 @@
-# iView-project
+# vue-phone
 
-This project is build for Vue.js 2 + vue-router + webpack2 + iView 2, just install and run.
+This project is using iView 2 quick start project.
+build for Vue.js 2 + vue-router + webpack2 + iView 2
+just install and run.
 
 ## Install
 ```bush
