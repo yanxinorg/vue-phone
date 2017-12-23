@@ -2,8 +2,11 @@ language: node_js
 node_js:
   - "node"
   - "8"
+cache:
+  directories:
+  - node_modules
 install:
   - npm install
 script:
-  - bundle exec npm run init
-  - bundle exec npm run build
+  - npm run init
+  - npm run build
