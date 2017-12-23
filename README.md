@@ -1,4 +1,4 @@
-# vue-phone
+# vue-phone ![Build Status](https://travis-ci.org/yanxinorg/vue-phone.svg?branch=master)
 
 This project is using iView 2 quick start project.
 build for Vue.js 2 + vue-router + webpack2 + iView 2
