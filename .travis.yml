@@ -4,3 +4,6 @@ node_js:
   - "8"
 install:
   - npm install
+script:
+  - bundle exec npm run init
+  - bundle exec npm run build
